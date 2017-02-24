@@ -10,5 +10,7 @@ The projects teams were:
 * Pomoc - which has its repo [here](https://github.com/CodeTheCity/pomoc)
 * Delta Test - no repo found!
 * Friend Tree - no repo found!
+* [GCD Dashboard](https://github.com/CodeTheCity/gcd_dashboard) - visualisation of Grampian Care Data. 
+* [All Scotland's GPs](https://github.com/CodeTheCity/Health2016_GPs) - assembles two spreasheets of GPs and practices for Scottish GPs.
 
 
